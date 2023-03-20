@@ -165,14 +165,10 @@ You are required to submit the following for review:
 My challenge as a marketing agency, is to begin with starter code that I will modify. 
 Refactoring this existing site allows me to make a codebase that follows accessibility standards, so the site is optimized for search engines.
 
-## Installation
-
-N/A
-
 ## Usage
 
 To use this refactored website, you can review the notes in each section. 
-You can also click this link to the site: xxxx
+You can also click this link to the site: https://jnaoroji.github.io/code-refactor-challenge/
 
 ## Credits
 
